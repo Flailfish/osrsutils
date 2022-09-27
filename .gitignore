@@ -1,0 +1,12 @@
+__pycache__/
+env/
+testenv/
+tests/
+build/
+dist/
+wheels/
+lib/
+*.egg-info/
+*.egg
+*.pyproj
+*.bat

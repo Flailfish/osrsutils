@@ -1,0 +1,1 @@
+OSRS Hiscores lookup and GE lookup
