@@ -8,7 +8,6 @@ https://runescape.wiki/w/Application_programming_interface
 """
 import requests
 from . import fileutils
-#import fileutils
 import inspect
 
 prices_endpoint = 'http://prices.runescape.wiki/api/v1/osrs'

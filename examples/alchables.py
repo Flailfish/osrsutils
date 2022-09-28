@@ -1,4 +1,4 @@
-from osrsutils.osrsitems import search_item_data, get_current_price,convert,ge_lookup
+from osrsutils.osrsitems import search_item_data, get_current_price
 import time
 
 nature_rune = 561
